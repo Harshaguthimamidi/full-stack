@@ -1,0 +1,92 @@
+
+
+
+img{
+background-repeat: no-repeat;    
+display: inline-block;
+position: fixed;
+height: 200px;
+width: 400px;
+left: 605px;
+top: 10px;
+
+}
+p{
+font-weight: bold ;
+ position: fixed;
+  width: 1000px;
+  left: 630px;
+  top: 200px;
+}
+table{
+    border-collapse: collapse;
+    position: fixed;
+    left: 645px;
+    top: 245px;
+    border: 1.5px  solid black;
+    letter-spacing: 1px;
+    padding: 10px;
+    
+    }
+    th{
+        border: 1.5px solid black;
+        padding: 10px;
+        background-color: bisque;
+    }
+    td{
+        border: 1px solid black;
+        padding: 10px;
+        background-color: cadetblue;
+    }
+
+    h4{
+        position: fixed;
+        left: 640px;
+        top: 350px;
+
+    }
+    
+  p2{
+    position: fixed;
+    left: 610px;
+    top:480px;
+    font-weight: bold;
+  }
+  .para{
+    position: fixed;
+    top: 500px;
+    left: 660px;
+  }
+ input[type="text"]{
+  position: relative;
+  left: 30px;
+  margin-bottom: 5px;
+  width: 240px;
+  
+ }
+ input[type="tel"]{
+  position: relative;
+  left: 5px;
+  margin-bottom: 5px;
+  width: 240px;
+ }
+ input[type="email"]{
+  position: fixed;
+  left: 717px;
+  margin-bottom: 5px;
+  width: 240px;
+ }
+
+  .lab {
+    position: fixed;
+    display: inline;
+    top: 395px;
+    left: 640px;
+   
+  }
+  .logo{
+    position: fixed;
+    left: 10px;
+    background-size: contain;
+    width: 250px;
+      }
